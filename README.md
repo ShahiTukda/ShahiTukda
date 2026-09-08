@@ -1,56 +1,47 @@
 <div align="center">
 
-# Hi, I'm ShahiTukda 👋
+# ShahiTukda
 
-Building depth in **binary analysis, reverse engineering, and low-level systems**.
+**Low-level systems, from the ground up.**
+
+I write assembly instead of importing libraries — a calculator, a printf, and a concurrent HTTP server, all built in raw x86-64.
 
 </div>
+<br>
 
----
+## Featured build
 
-## 🧠 Current Skills
+**[asm-webserver](https://github.com/ShahiTukda/asm-webserver)** — a concurrent HTTP server handling GET/POST, written entirely in x86-64 assembly. No frameworks, no libc convenience — sockets, forking, and HTTP parsing done by hand, built up across 6 stages from a static response to a full server.
 
-| Domain | Skills |
+## Other builds
+
+| | |
 |---|---|
-| **Filesystem & Shell Mechanics** | Path navigation, wildcards/pattern matching, command execution/chaining, shell/environment variable handling |
-| **Privilege & Process Administration** | Linux job control and signals, multi-user permissions and ownership, file mode bits/SUID awareness, terminal multiplexing, binary lookup hijacking |
-| **I/O & Data Streams** | Standard input/output/error redirection, piping, shell parsing edge cases, destructively modifying file structures, stream text processing |
-| **Architecture & Memory Layout** | Memory mapping, stack frames/call stacks, byte alignment (endianness) |
-| **Assembly & Control Flow** | x86-64 assembly instructions, low-level branching/loops, standard file descriptors and I/O streams, compiling basic executables |
-| **Debugging & Program Construction** | Runtime binary analysis with GDB, binary disassembly/inspection, data type representation, low-level socket/HTTP server programming |
-| **Privilege Escalation** | Abusing binary misconfigurations, GTFOBins techniques, file read primitives, escaping restricted execution environments via native Linux binaries |
-| **Database Exploitation** | Direct SQL syntax execution, authentication bypasses, database schema enumeration, data extraction techniques |
-| **Web Protocol Fundamentals** | Crafting raw HTTP requests, handling cookies, custom headers, request methods, endpoints, status codes |
-| **Stream & Data Parsing** | Processing binary/hex streams, decoding encodings, raw data manipulation |
+| **[asm-calculator](https://github.com/ShahiTukda/asm-calculator)** | Arithmetic/bitwise calculator in x86-64 assembly |
+| **[asm-printf](https://github.com/ShahiTukda/asm-printf)** | `printf` rebuilt from scratch, reusing `atoi`/`itoa` |
 
----
+More in progress — next up is a set of projects from a Prolog/Scheme/C/C++ language-internals track.
 
-## 🔧 Currently Working Through
+## Stack & ground covered
 
-![pwn.college](https://img.shields.io/badge/pwn.college-White%20Belt%20Cleared%20(386%2F386)-orange?style=flat-square)
-![Current](https://img.shields.io/badge/Now%20On-Orange%20Belt-important?style=flat-square)
+![Assembly](https://img.shields.io/badge/x86--64-Assembly-blue?style=flat-square)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GDB](https://img.shields.io/badge/GDB-Debugging-lightgrey?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-Injection%20%26%20Exploitation-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTTP](https://img.shields.io/badge/Raw-HTTP%2FSockets-orange?style=flat-square)
 
----
+Beyond the languages: memory layout and stack frames, privilege escalation (SUID abuse, GTFOBins), binary disassembly and runtime analysis, and raw protocol work — crafting HTTP requests and SQL queries by hand rather than through a client library.
 
-## 🛠️ Projects
+`386/386` pwn.college Getting Started challenges cleared. Currently pushing through Orange Belt.
 
-| Repo | Description |
-|---|---|
-| [**asm-calculator**](https://github.com/ShahiTukda/asm-calculator) | x86-64 assembly calculator, arithmetic/bitwise ops |
-| [**asm-printf**](https://github.com/ShahiTukda/asm-printf) | printf implementation from scratch, reusing atoi/itoa |
-| [**asm-webserver**](https://github.com/ShahiTukda/asm-webserver) | concurrent HTTP server (fork-per-connection), built in 6 stages from a static response to full GET/POST handling |
+## Writeups
 
-*More repos incoming.*
+Every solve gets documented, not just solved — **[CTF-Writeups](https://github.com/ShahiTukda/CTF-Writeups)**
 
----
-
-## ✍️ Writeups
-
-📄 [**CTF-Writeups**](https://github.com/ShahiTukda/CTF-Writeups)
-
----
-
-## 📫 Find Me
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ShahiTukda-181717?style=flat-square&logo=github)](https://github.com/ShahiTukda)
 [![pwn.college](https://img.shields.io/badge/pwn.college-Profile-orange?style=flat-square)](https://pwn.college/hacker/182145)
+
+</div>
