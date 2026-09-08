@@ -2,7 +2,9 @@
 
 # Hi, I'm ShahiTukda 👋
 
-Building depth in **binary analysis, reverse engineering, and low-level systems**.
+CTF player & security generalist. 
+
+Exploring **Web Security, Binary Exploitation (Pwn), Reverse Engineering, Cryptography, and Linux Internals.**
 
 </div>
 
