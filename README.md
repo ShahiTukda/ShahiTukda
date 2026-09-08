@@ -2,9 +2,8 @@
 
 # Hi, I'm ShahiTukda 👋
 
-CTF player & security generalist. 
-
-Exploring **Web Security, Binary Exploitation (Pwn), Reverse Engineering, Cryptography, and Linux Internals.**
+CTF player & security generalist.  
+ Exploring **Web Security, Binary Exploitation (Pwn), Reverse Engineering, Cryptography, and Linux Internals.**
 
 </div>
 
