@@ -13,7 +13,7 @@ CTF player & security generalist.
 
 | Repo | Description |
 |---|---|
-| **[asm-webserver](https://github.com/ShahiTukda/asm-webserver)** | a concurrent HTTP server handling GET/POST, written entirely in x86-64 assembly. No frameworks, no libc convenience — sockets, forking, and HTTP parsing done by hand, built up across 6 stages from a static response to a full server. |
+| **[asm-webserver](https://github.com/ShahiTukda/asm-webserver)** | a concurrent HTTP server handling GET/POST, written entirely in x86-64 assembly. No frameworks, no libc convenience. Sockets, forking, and HTTP parsing done by hand, built up across 6 stages from a static response to a full server. |
 | [**asm-calculator**](https://github.com/ShahiTukda/asm-calculator) | x86-64 assembly calculator, arithmetic/bitwise ops |
 | [**asm-printf**](https://github.com/ShahiTukda/asm-printf) | printf implementation from scratch, reusing atoi/itoa |
 
