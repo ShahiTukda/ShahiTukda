@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm ShahiTukda 👋
+# Hi, I'm ShahiTukda 
 
 CTF player & security generalist.  
  Exploring **Web Security, Binary Exploitation (Pwn), Reverse Engineering, Cryptography, and Linux Internals.**
@@ -9,7 +9,7 @@ CTF player & security generalist.
 
 ---
 
-## 🛠️ Projects
+## Projects
 
 | Repo | Description |
 |---|---|
@@ -21,7 +21,7 @@ CTF player & security generalist.
 
 ---
 
-## 🧠 Current Skills
+## Current Skills
 
 | Domain | Skills |
 |---|---|
@@ -38,20 +38,20 @@ CTF player & security generalist.
 
 ---
 
-## 🔧 Currently Working Through
+## Currently Working Through
 
 ![pwn.college](https://img.shields.io/badge/pwn.college-White%20Belt%20Cleared%20(386%2F386)-orange?style=flat-square)
 ![Current](https://img.shields.io/badge/Now%20On-Orange%20Belt-important?style=flat-square)
 
 ---
 
-## ✍️ Writeups
+## Writeups
 
 📄 [**CTF-Writeups**](https://github.com/ShahiTukda/CTF-Writeups)
 
 ---
 
-## 📫 Find Me
+## Find Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-ShahiTukda-181717?style=flat-square&logo=github)](https://github.com/ShahiTukda)
 [![pwn.college](https://img.shields.io/badge/pwn.college-Profile-orange?style=flat-square)](https://pwn.college/hacker/182145)
